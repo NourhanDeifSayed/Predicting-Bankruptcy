@@ -1,10 +1,3 @@
-# 🧠 Predicting Corporate Bankruptcy using Machine Learning & Explainable AI (XAI)
-
-> Team Project – Department of Computer Science, Zewail City of Science and Technology
-
-This repository presents our comprehensive approach to predicting corporate bankruptcy using machine learning models and interpreting the predictions through powerful Explainable AI (XAI) techniques.
-
----
 
 ## 📌 Project Overview
 
